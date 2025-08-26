@@ -1,6 +1,6 @@
 # 👥 CRUD Gin - User Management
 
-A simple **CRUD (Create, Read, Update, Delete)** REST API built with [Gin]((https://gin-gonic.com/)) for managing users.  
+A simple **CRUD (Create, Read, Update, Delete)** REST API built with [Gin](https://gin-gonic.com/) for managing users.  
 The project demonstrates the basics of backend development with Golang and Gin by implementing a `users` table.
 
 ---
@@ -20,7 +20,7 @@ The project demonstrates the basics of backend development with Golang and Gin b
 ---
 
 ## 🛠️ Tech Stack
-- [Go]((https://go.dev/))
+- [Go](https://go.dev/)
 - [Gin](https://gin-gonic.com/)
 - [Gorm](https://gorm.io/) *(ORM for database)*
 - MySQL
