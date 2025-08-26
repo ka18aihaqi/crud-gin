@@ -71,7 +71,7 @@ Example of a user object:
 
 🔥 Example Request (POST)
 ```json
-curl -X POST http://localhost:3000/api/users \
+curl -X POST http://localhost:8080/users \
    -H "Content-Type: application/json" \
    -d '{
      "email": "jane.doe@example.com",
